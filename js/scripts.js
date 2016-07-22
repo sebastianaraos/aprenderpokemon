@@ -258,8 +258,8 @@ $(document).ready(function() {
     
     if($('.instafeed').length){
     	jQuery.fn.spectragram.accessData = {
-			accessToken: '1406933036.dc95b96.2ed56eddc62f41cbb22c1573d58625a2',
-			clientID: '87e6d2b8a0ef4c7ab8bc45e80ddd0c6a'
+			accessToken: '3568508749.184dae9.2a802cbdb7624d49ad528b7b9017bd7e',
+			clientID: '184dae9102d547c9a5bef50db16e4aec'
 		};	
 
         $('.instafeed').each(function() {
