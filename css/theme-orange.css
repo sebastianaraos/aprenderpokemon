@@ -633,8 +633,8 @@ footer.bg-dark li,
   height: 100%;
   top: 0;
   left: 0;
-  background: #292929;
-  opacity: 0.3;
+  background: black;
+  opacity: 0.45;
   z-index: 2;
 }
 .overlay-heavy:before {
